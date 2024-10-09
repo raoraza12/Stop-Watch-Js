@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    font-family:sans-serif;
+    
+ }
+ 
+ #main-head{
+    background:rgb(48, 50, 82);
+    color: white;
+ 
+ }
+ #Stop-Watch{
+    font-size: 48px;
+ }
+ 
+ button{
+    padding: 10px;
+   font-size: 18px;
+   background-color: #322847;
+   color: white;
+   font-family: sans-serif;
+ 
+ }
+ button:disabled{
+    opacity: 0.5;
+    cursor: not-allowed;
+ 
+ 
+ }
